@@ -15,7 +15,7 @@ The FRAIG project reads an AIGER file. It performs trivial optimization such as 
 - CIROPTimize: Perform trivial optimization, i.e. constant propagation.
 - CIRSTRash:   Perform structural hash on the circuit netlist and merge the structurally equivalent gates.
 - CIRSIMulate: Perform Boolean logic simulation on the circuit and detect the FEC pairs.
-- CIRFraig:    Calls the SAT solver to prove the functional equivalence of the FEC pairs in the circuit.
+- CIRFraig:    Call the SAT solver to prove the functional equivalence of the FEC pairs in the circuit.
 
 ## Implementation
 The implementation is in C++.
