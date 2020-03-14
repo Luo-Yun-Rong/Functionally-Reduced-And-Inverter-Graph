@@ -22,8 +22,8 @@ The FRAIG project reads an AIGER file. It performs trivial optimization such as 
 The implementation is in C++.
 
 ## Reference
-[1] Professor Chung-Yang (Ric) Huang's lecture notes and the project specification. 
-[2] MiniSat web page: http://minisat.se
+- Professor Chung-Yang (Ric) Huang's lecture notes and the project specification. 
+- MiniSat web page: http://minisat.se
 
 
 
