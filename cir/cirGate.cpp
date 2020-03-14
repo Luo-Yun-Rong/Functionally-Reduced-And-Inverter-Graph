@@ -2,7 +2,8 @@
   FileName     [ cirGate.cpp ]
   PackageName  [ cir ]
   Synopsis     [ Define class CirAigGate member functions ]
-  Author       [ Yun-Rong Luo ]
+  Author       [ Yun-Rong Luo, Chung-Yang (Ric) Huang ]
+  Copyright    [ Copyleft(c) 2008-present LaDs(III), GIEE, NTU, Taiwan ]
 ****************************************************************************/
 
 #include <iostream>

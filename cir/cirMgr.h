@@ -2,7 +2,8 @@
   FileName     [ cirMgr.h ]
   PackageName  [ cir ]
   Synopsis     [ Define circuit manager ]
-  Author       [ Yun-Rong Luo ]
+  Author       [ Yun-Rong Luo, Chung-Yang (Ric) Huang ]
+  Copyright    [ Copyleft(c) 2008-present LaDs(III), GIEE, NTU, Taiwan ]
 ****************************************************************************/
 
 #ifndef CIR_MGR_H

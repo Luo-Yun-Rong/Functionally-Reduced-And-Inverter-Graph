@@ -2,8 +2,8 @@
   FileName     [ cirDef.h ]
   PackageName  [ cir ]
   Synopsis     [ Define basic data or var for cir package ]
-  Author       [ Chung-Yang (Ric) Huang ]
-  Copyright    [ Copyleft(c) 2012-present LaDs(III), GIEE, NTU, Taiwan ]
+  Author       [ Yun-Rong Luo, Chung-Yang (Ric) Huang ]
+  Copyright    [ Copyleft(c) 2008-present LaDs(III), GIEE, NTU, Taiwan ]
 ****************************************************************************/
 
 #ifndef CIR_DEF_H
@@ -11,6 +11,7 @@
 
 #include <vector>
 #include "myHashMap.h"
+
 
 using namespace std;
 

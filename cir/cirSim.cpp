@@ -2,7 +2,8 @@
   FileName     [ cirSim.cpp ]
   PackageName  [ cir ]
   Synopsis     [ Define cir simulation functions ]
-  Author       [ Yun-Rong Luo ]
+  Author       [ Yun-Rong Luo, Chung-Yang (Ric) Huang ]
+  Copyright    [ Copyleft(c) 2008-present LaDs(III), GIEE, NTU, Taiwan ]
 ****************************************************************************/
 
 #include <fstream>

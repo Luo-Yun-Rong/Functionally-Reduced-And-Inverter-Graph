@@ -2,7 +2,8 @@
   FileName     [ cirGate.h ]
   PackageName  [ cir ]
   Synopsis     [ Define basic gate data structures ]
-  Author       [ Yun-Rong Luo ]
+  Author       [ Yun-Rong Luo, Chung-Yang (Ric) Huang ]
+  Copyright    [ Copyleft(c) 2008-present LaDs(III), GIEE, NTU, Taiwan ]
 ****************************************************************************/
 
 #ifndef CIR_GATE_H
