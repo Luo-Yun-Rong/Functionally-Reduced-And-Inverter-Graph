@@ -17,9 +17,6 @@ The FRAIG project reads an AIGER file. It performs trivial optimization such as 
 - CIRSIMulate: Perform Boolean logic simulation on the circuit and detect the FEC pairs.
 - CIRFraig:    Call the SAT solver to prove the functional equivalence of the FEC pairs in the circuit.
 
-## Implementation
-The implementation is in C++.
-
 ## Reference
 - Professor Chung-Yang (Ric) Huang's lecture notes and the project specification. 
 - MiniSat web page: http://minisat.se
